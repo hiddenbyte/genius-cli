@@ -27,7 +27,7 @@ Usage of ./genius-cli:
 ```
 
 ### Setup
-Before we start using this tool we need to authorize for genius-cli to access Genius trough our Genius account
+Before start using this tool you will need to authorize genius-cli to access Genius trough your account
 
 1. Type `./genius-cli --setup`
 
