@@ -10,7 +10,7 @@ The songs lyrics are provided by [Genius](https://genius.com/) trough their [API
 - Go 1.12 or newer
 
 ### How
-In order build this tool just use the Go build that will generate genius-cli binary `./genius-cli`.
+Use the Go build command, in order to generate a binary of genius-cli. Binary output path: `./genius-cli`.
 
 `go build`
 
