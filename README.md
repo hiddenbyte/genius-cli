@@ -1,7 +1,7 @@
 # genius-cli
 genius-cli is a CLI tool that allows you to search and read your favorite songs lyrics without leaving the terminal window.
 
-The songs lyrics are provided by [Genius](https://genius.com/) trough their [API](https://docs.genius.com/).
+The songs lyrics are provided by [Genius](https://genius.com/) through their [API](https://docs.genius.com/).
 
 ## Build
 
