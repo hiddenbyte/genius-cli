@@ -37,7 +37,7 @@ func (ua geniusLyricsUserAgent) Open(url string) error {
 		return err
 	}
 
-	lyricsHTML, err := doc.Find("div.lyrics").Html()
+	lyricsHTML, err := doc.Find("div#lyrics-root").
 	if err != nil {
 		return err
 	}
